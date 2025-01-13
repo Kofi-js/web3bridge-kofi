@@ -1,0 +1,19 @@
+{
+  "name": "web3bridge-kofi",
+  "version": "1.0.0",
+  "description": "A simple React application to manage a school's student database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kofi-js/web3bridge-kofi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kofi-js/web3bridge-kofi/issues"
+  },
+  "homepage": "https://github.com/Kofi-js/web3bridge-kofi#readme"
+}
